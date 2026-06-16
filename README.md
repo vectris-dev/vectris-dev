@@ -1,5 +1,5 @@
 # Steve Hadley
-Artist • Creative Technologist • Gamedev
+Artist • Creative Technologist • Gamedev<br>
 Founder of [DREAMWARE](https://dreamware.au)
 ## Links
 - Website: https://dreamware.au
